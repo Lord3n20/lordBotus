@@ -1,4 +1,4 @@
 # lordBotus
 DiscordBot
-install:
+#install:
 pip -r req.txt
